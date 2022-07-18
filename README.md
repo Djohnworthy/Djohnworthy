@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Djohnworthy
+- 👋 Hi, I’m @Degercandeger
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on anything.
